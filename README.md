@@ -4,8 +4,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k78sy)](https://github.com/anuraghazra/github-readme-stats)
-
+[![k78sy's GitHub stats](https://github-readme-stats.vercel.app/api?username=k78sy)](https://github.com/k78sy/github-readme-stats)
 
 
 ### 🛠 Tech Stack Study
